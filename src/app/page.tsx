@@ -67,37 +67,37 @@ const BUDAPEST_IMG = '/hungary.jpg';
 const AGENDA_SECTIONS = [
   {
     title: 'Why this matters: the Plan B / political pendulum case',
-    duration: '5 min',
+    duration: '7 min',
     desc: 'Why optionality is the right frame for any EU Golden Visa, what the political pendulum costs you if you don’t hedge in time, the Thiel/Dalio frame (and how the placement industry misuses it), and why most readers don’t actually need any of these programs.',
   },
   {
     title: 'The ratchet & the five active programs',
-    duration: '7 min',
+    duration: '9 min',
     desc: 'Eleven of seventeen major EU and EU-adjacent programs closed in 4 years. The CJEU April 2025 ruling that ended Malta CBI permanently. Spain Apr 2025, Bulgaria 2022, Montenegro 2022, Ireland 2023, Portugal real estate 2023. What survived, what didn’t, and the constitutional line that’s now binding.',
   },
   {
     title: 'The five active programs side by side',
-    duration: '18 min',
+    duration: '28 min',
     desc: 'Italy Investor Visa €250K, Greek GV €250K (Zone C), Portugal GV €500K funds or €250K donation, Hungary GIP €250K AIF, Malta MPRP €375K + €37K, Cyprus PR €300K. Mechanics, math, who fits, the honest catch, the verdict on each.',
   },
   {
     title: 'The four tests — how to evaluate any program',
-    duration: '5 min',
+    duration: '7 min',
     desc: 'Recoverability (is the capital yours?), presence (what does holding cost you?), citizenship trigger (does exercise yield something durable?), expiry risk (closure cycle position). The framework you can apply to any program, today or in 2030 when the active-program list changes again.',
   },
   {
     title: 'Tax stacking — the visa is not the tax break',
-    duration: '7 min',
+    duration: '12 min',
     desc: 'Italy 24-bis / 24-ter / Impatriati / Researcher. Greek 5A (€100K) / 5B (7%). Cyprus 60-day non-dom 17 years. Malta non-dom + refundable. Portugal IFICI (narrow). €5M foreign-income worked example across all five jurisdictions side by side. Match the regime to your profile, then pick the visa.',
   },
   {
     title: 'Decision matrix — who fits which program',
-    duration: '6 min',
+    duration: '9 min',
     desc: 'UK ex-non-doms on a burning clock, US tech founders pre-exit, foreign-pension retirees, UHNW with foreign-source income, founders selling business, the do-nothing baseline. Profile is filter #1. The visa is filter #4. Plus the descent check most placement decks skip.',
   },
   {
     title: 'Honest costs, red flags + Live Q&A',
-    duration: '12 min',
+    duration: '18 min',
     desc: 'The fees the placement industry doesn’t publish. Guarantees you should refuse. The five rules nobody tells you before buying EU optionality. Then live Q&A on your specific situation.',
   },
 ];
@@ -346,11 +346,11 @@ export default function LandingPage() {
             </h1>
 
             <p className="mx-auto mb-5 max-w-xl text-lg font-medium leading-relaxed text-white md:text-xl [text-shadow:0_1px_10px_rgba(0,0,0,0.4)]">
-              The five EU residency-by-investment programs still active in 2026, plus Cyprus PR. <span className="font-bold">60 minutes covering the essentials</span> on Italy, Greece, Portugal, Hungary, Malta and Cyprus &mdash; honestly compared.
+              The five EU residency-by-investment programs still active in 2026, plus Cyprus PR. <span className="font-bold">90 minutes covering the essentials</span> on Italy, Greece, Portugal, Hungary, Malta and Cyprus &mdash; honestly compared.
             </p>
 
             <p className="mx-auto mb-10 max-w-md text-sm font-medium text-white/80">
-              Thursday, June 18th at 5:00 PM Lisbon time (6:00 PM Rome). ~60 min live on Zoom with Q&A.
+              Thursday, June 18th at 5:00 PM Lisbon time (6:00 PM Rome). ~90 min live on Zoom with Q&A.
             </p>
 
             <div ref={topFormRef} className="w-full max-w-lg mx-auto">
@@ -588,7 +588,7 @@ export default function LandingPage() {
           What You&apos;ll Get
         </p>
         <h2 className="mb-4 font-serif text-2xl font-light tracking-tight md:text-3xl">
-          60 minutes, 7 sections, <span className="italic">full Q&A.</span>
+          90 minutes, 7 sections, <span className="italic">full Q&A.</span>
         </h2>
         <p className="mb-14 max-w-lg text-sm leading-relaxed text-muted">
           Everything you need to evaluate the EU Golden Visa landscape in 2026, structured so you leave with a clear picture of which program — if any — fits you, and what the honest math looks like.
@@ -697,7 +697,7 @@ export default function LandingPage() {
 
         <div className="grid gap-3 sm:grid-cols-2">
           {[
-            { label: 'Format', value: 'Live on Zoom, ~60 minutes including Q&A' },
+            { label: 'Format', value: 'Live on Zoom, ~90 minutes including Q&A' },
             { label: 'Cost', value: 'Free' },
             { label: 'Recording', value: 'Sent to all registrants if you can’t make it live' },
             { label: 'Language', value: 'English' },
@@ -736,7 +736,7 @@ export default function LandingPage() {
             One hour that will save you <span className="italic">weeks of research.</span>
           </h2>
           <p className="mx-auto mb-10 max-w-md text-sm leading-relaxed text-white/50">
-            Most people considering an EU Golden Visa spend months piecing together fragmented information from placement decks, blog posts, and outdated guides. Sixty minutes with one practitioner who runs jurisdictional intelligence as a full-time discipline is the fastest way to see the full landscape honestly &mdash; and know which program, if any, fits you.
+            Most people considering an EU Golden Visa spend months piecing together fragmented information from placement decks, blog posts, and outdated guides. Ninety minutes with one practitioner who runs jurisdictional intelligence as a full-time discipline is the fastest way to see the full landscape honestly &mdash; and know which program, if any, fits you.
             <br /><br />
             The previous Italy webinar drew 850+ registrants.
             <br />

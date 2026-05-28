@@ -34,13 +34,14 @@ function getUtms(): Record<string, string> {
   }
 }
 
-// TODO: Update these Kit tag IDs once the EU Golden Visas form is created.
+// Kit source tags — same numeric IDs as the Italy webinar (shared Bitizenship Kit account).
+// Format: utm_source=<source>&utm_medium=<medium> → maps to `source:<source>-<medium>` tag.
 const UTM_TAG_IDS: Record<string, number> = {
-  'x-social': 0,
-  'youtube-social': 0,
-  'substack-newsletter': 0,
-  'bitizenship-newsletter': 0,
-  'bitizenship-paid': 0,
+  'x-social': 19205040,
+  'youtube-social': 19205273,
+  'substack-newsletter': 19205274,
+  'bitizenship-newsletter': 19205278,
+  'bitizenship-paid': 19205279,
 };
 
 function lookupSourceTagId(utms: Record<string, string>): number | null {

@@ -180,8 +180,7 @@ const COUNTRIES = [
 
 /* ─────────────────────────── CTA FORM ─────────────────────────── */
 
-// TODO: Replace with the Kit form ID created for this webinar.
-const KIT_FORM_ID = 'REPLACE_ME';
+const KIT_FORM_ID = '9494799';
 const KIT_API_KEY = 'dljaxwYy4AbxYkhZIV3eqQ';
 
 function RegisterForm({ id, dark = false }: { id: string; dark?: boolean }) {

@@ -314,7 +314,7 @@ export default function LandingPage() {
       ═══════════════════════════════════════════════════════════ */}
       <div className="bg-dark text-center py-3 px-6">
         <p className="text-[12px] text-white/75 font-medium tracking-wide">
-          Wednesday, June 10th &middot; 5pm Lisbon &middot; 6pm Rome &middot; 12pm New York &middot; 9am California
+          Thursday, June 18th &middot; 5pm Lisbon &middot; 6pm Rome &middot; 12pm New York &middot; 9am California
         </p>
       </div>
 
@@ -336,7 +336,7 @@ export default function LandingPage() {
         <div className="relative z-10 mx-auto flex min-h-[90vh] max-w-[1100px] items-center justify-center px-6 pt-24 pb-32">
           <div className="w-full max-w-[760px] text-center text-white">
             <p className="mb-6 text-[11px] font-semibold uppercase tracking-[0.3em] text-accent">
-              Free Live Webinar &middot; June 10, 2026
+              Free Live Webinar &middot; June 18, 2026
             </p>
 
             <h1 className="mb-8 font-serif text-5xl font-normal leading-[1.05] tracking-tight text-white [text-shadow:0_2px_20px_rgba(0,0,0,0.4)] sm:text-6xl md:text-7xl lg:text-[4.5rem]">
@@ -350,7 +350,7 @@ export default function LandingPage() {
             </p>
 
             <p className="mx-auto mb-10 max-w-md text-sm font-medium text-white/80">
-              Wednesday, June 10th at 5:00 PM Lisbon time (6:00 PM Rome). ~60 min live on Zoom with Q&A.
+              Thursday, June 18th at 5:00 PM Lisbon time (6:00 PM Rome). ~60 min live on Zoom with Q&A.
             </p>
 
             <div ref={topFormRef} className="w-full max-w-lg mx-auto">
@@ -692,7 +692,7 @@ export default function LandingPage() {
           When is the webinar
         </p>
         <h2 className="mb-10 font-serif text-2xl font-light tracking-tight md:text-3xl">
-          Wednesday, June 10th at <span className="italic">5:00 PM Lisbon time.</span>
+          Thursday, June 18th at <span className="italic">5:00 PM Lisbon time.</span>
         </h2>
 
         <div className="grid gap-3 sm:grid-cols-2">

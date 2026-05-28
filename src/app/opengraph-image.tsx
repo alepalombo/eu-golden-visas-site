@@ -49,7 +49,7 @@ export default async function Image() {
           }}
         >
           <div style={{ width: 40, height: 2, background: '#5BA4F5' }} />
-          Free Live Webinar · June 10, 2026
+          Free Live Webinar · June 18, 2026
         </div>
 
         <div style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>

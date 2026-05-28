@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   title: 'Top European Golden Visas, Compared — Free Live Webinar',
   description:
-    'The five EU residency-by-investment programs left standing in 2026. What they actually cost, who they actually fit, and which one fits you. 2-hour live webinar with Q&A. Free registration.',
+    'The five EU residency-by-investment programs left standing in 2026. What they actually cost, who they actually fit, and which one fits you. 60-minute live webinar with Q&A. Free registration.',
   openGraph: {
     title: 'Top European Golden Visas, Compared — Free Live Webinar',
     description:
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@thealepalombo',
     title: 'Top European Golden Visas, Compared — Free Live Webinar',
     description:
-      'Italy · Greece · Portugal · Hungary · Malta · Cyprus. The five EU programs left, side by side. 2-hour live session with Q&A. Free.',
+      'Italy · Greece · Portugal · Hungary · Malta · Cyprus. The five EU programs left, side by side. 60-min live session with Q&A. Free.',
   },
   robots: { index: true, follow: true },
 };

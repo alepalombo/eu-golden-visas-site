@@ -71,19 +71,19 @@ const AGENDA_SECTIONS = [
     desc: 'Why optionality is the right frame for any EU Golden Visa, what the political pendulum costs you if you don’t hedge in time, the Thiel/Dalio frame (and how the placement industry misuses it), and why most readers don’t actually need any of these programs.',
   },
   {
-    title: 'The ratchet & the five EU survivors',
+    title: 'The ratchet & the five active programs',
     duration: '7 min',
     desc: 'Eleven of seventeen major EU and EU-adjacent programs closed in 4 years. The CJEU April 2025 ruling that ended Malta CBI permanently. Spain Apr 2025, Bulgaria 2022, Montenegro 2022, Ireland 2023, Portugal real estate 2023. What survived, what didn’t, and the constitutional line that’s now binding.',
   },
   {
-    title: 'The five EU survivors side by side',
+    title: 'The five active programs side by side',
     duration: '18 min',
-    desc: 'Italy Investor Visa €250K, Greek GV €250K (Zone C), Portugal GV €500K funds or €200K donation, Hungary GIP €250K AIF, Malta MPRP €375K + €37K, Cyprus PR €300K. Mechanics, math, who fits, the honest catch, the verdict on each.',
+    desc: 'Italy Investor Visa €250K, Greek GV €250K (Zone C), Portugal GV €500K funds or €250K donation, Hungary GIP €250K AIF, Malta MPRP €375K + €37K, Cyprus PR €300K. Mechanics, math, who fits, the honest catch, the verdict on each.',
   },
   {
     title: 'The four tests — how to evaluate any program',
     duration: '5 min',
-    desc: 'Recoverability (is the capital yours?), presence (what does holding cost you?), citizenship trigger (does exercise yield something durable?), expiry risk (closure cycle position). The framework you can apply to any program, today or in 2030 when the survivor list changes again.',
+    desc: 'Recoverability (is the capital yours?), presence (what does holding cost you?), citizenship trigger (does exercise yield something durable?), expiry risk (closure cycle position). The framework you can apply to any program, today or in 2030 when the active-program list changes again.',
   },
   {
     title: 'Tax stacking — the visa is not the tax break',
@@ -117,7 +117,7 @@ const PROFILES = [
   },
   {
     title: 'Founders pre-exit, citizenship-desired',
-    desc: 'Portugal GV at €500K (or €200K donation) — the only EU program that builds PR without moving.',
+    desc: 'Portugal GV at €500K (or €250K donation). EU PR without moving — though the May 2026 reform doubled the citizenship clock to 10 years (7 for CPLP).',
   },
 ];
 
@@ -148,9 +148,9 @@ const COUNTRIES = [
   {
     name: 'Portugal',
     program: 'Golden Visa',
-    entry: '€500K / €200K donation',
+    entry: '€500K / €250K donation',
     tax: 'IFICI (narrow — R&D, PhD, tech)',
-    verdict: 'Build EU PR without moving',
+    verdict: 'EU PR without moving (citizenship now 10y)',
     image: '/portugal.jpg',
   },
   {
@@ -346,7 +346,7 @@ export default function LandingPage() {
             </h1>
 
             <p className="mx-auto mb-5 max-w-xl text-lg font-medium leading-relaxed text-white md:text-xl [text-shadow:0_1px_10px_rgba(0,0,0,0.4)]">
-              The five EU residency-by-investment programs left standing in 2026, plus Cyprus PR. <span className="font-bold">60 minutes covering the essentials</span> on Italy, Greece, Portugal, Hungary, Malta and Cyprus &mdash; honestly compared.
+              The five EU residency-by-investment programs still active in 2026, plus Cyprus PR. <span className="font-bold">60 minutes covering the essentials</span> on Italy, Greece, Portugal, Hungary, Malta and Cyprus &mdash; honestly compared.
             </p>
 
             <p className="mx-auto mb-10 max-w-md text-sm font-medium text-white/80">
@@ -391,7 +391,7 @@ export default function LandingPage() {
               Why this matters, why now
             </p>
             <h2 className="font-serif text-3xl font-light tracking-tight md:text-4xl">
-              Eleven of seventeen closed. <span className="italic">Five are left.</span>
+              Eleven of seventeen closed. <span className="italic">Five are still active.</span>
             </h2>
           </div>
 
@@ -400,7 +400,7 @@ export default function LandingPage() {
               Spain Golden Visa terminated April 2025. Malta CBI struck down by CJEU. Portugal killed real estate. Bulgaria, Montenegro, Ireland, UK Tier&nbsp;1 — all closed.
             </p>
             <p>
-              <strong className="font-semibold text-white">Eleven of seventeen major EU and EU-adjacent programs ran the closure cycle in four years.</strong> Five EU residency programs are left, plus Cyprus PR which functions as one.
+              <strong className="font-semibold text-white">Eleven of seventeen major EU and EU-adjacent programs ran the closure cycle in four years.</strong> Five EU residency programs are still active, plus Cyprus PR which functions as one.
             </p>
             <p>
               Their prices are higher, their citizenship clocks are slower, and most placement advisors are pitching the wrong one to the wrong buyer. This webinar walks through all six, honestly compared.
@@ -738,7 +738,7 @@ export default function LandingPage() {
           <p className="mx-auto mb-10 max-w-md text-sm leading-relaxed text-white/50">
             Most people considering an EU Golden Visa spend months piecing together fragmented information from placement decks, blog posts, and outdated guides. Sixty minutes with one practitioner who runs jurisdictional intelligence as a full-time discipline is the fastest way to see the full landscape honestly &mdash; and know which program, if any, fits you.
             <br /><br />
-            The previous Italy webinar drew over 400 registrants.
+            The previous Italy webinar drew 850+ registrants.
             <br />
             <strong className="text-white/80">Reserve your seat now</strong> to guarantee live access and Q&A participation.
           </p>
